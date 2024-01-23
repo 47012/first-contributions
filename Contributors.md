@@ -1352,6 +1352,7 @@ Alexander
 - [Nitipat Ruengsatawit](https://github.com/nitipat21)
 - [Wa]
 - [EL]
+- [47012] (https://github.com/47012)
 - [bengodlewski](https://github.com/bengodlewski)
 - [`Orunto Eniola`](https://github.com/orunto)
 - [`Pedro Frey`](https://github.com/PedroFrey)
